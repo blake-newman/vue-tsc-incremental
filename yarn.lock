@@ -266,10 +266,10 @@ __metadata:
 
 "@volar/typescript@patch:@volar/typescript@npm%3A1.3.0-alpha.0#./.yarn/patches/@volar-typescript-npm-1.3.0-alpha.0-3fded795b6.patch::locator=vue-tsc-incremental%40workspace%3A.":
   version: 1.3.0-alpha.0
-  resolution: "@volar/typescript@patch:@volar/typescript@npm%3A1.3.0-alpha.0#./.yarn/patches/@volar-typescript-npm-1.3.0-alpha.0-3fded795b6.patch::version=1.3.0-alpha.0&hash=70ff9b&locator=vue-tsc-incremental%40workspace%3A."
+  resolution: "@volar/typescript@patch:@volar/typescript@npm%3A1.3.0-alpha.0#./.yarn/patches/@volar-typescript-npm-1.3.0-alpha.0-3fded795b6.patch::version=1.3.0-alpha.0&hash=a6afe8&locator=vue-tsc-incremental%40workspace%3A."
   dependencies:
     "@volar/language-core": 1.3.0-alpha.0
-  checksum: 925b9f6cf5f86747476044ff34e4dcaf35d8c71c907269f0ff569081e0d2c4f921cbebd0e8adc0d7b6f54189aea676c211491632ae36605c05d8b6ab8f94f4b2
+  checksum: 4c773b075a51e528ebcba181bff775ccead582da802e76917cc8570eea2f49282844067a4ea92d7357b7131b65f6cf60e1b7f13bc8296178e4e16af095ac772b
   languageName: node
   linkType: hard
 
